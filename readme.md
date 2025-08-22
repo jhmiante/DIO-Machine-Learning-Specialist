@@ -1,7 +1,4 @@
-<div style="display: flex; align-items: center;">
-  <img src="files/logo.png" alt="Logo" width="80" style="margin-right: 15px;">
-  <h1>Formação Machine Learning Specialist</h1>
-</div>
+# ![Logo Fundamento em ML](files/logo.png)  Formação Machine Learning Specialist
 
 <br>
 
